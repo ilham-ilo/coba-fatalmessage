@@ -1,0 +1,1 @@
+//kita cek masih ada fatal atau ngga
